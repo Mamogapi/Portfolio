@@ -1,1 +1,1 @@
-[my portfolio link](direkomamogapi.netlify.app)
+[my portfolio link](https://direkomamogapi.netlify.app/)
